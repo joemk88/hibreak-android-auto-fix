@@ -9,11 +9,26 @@ using a **Bigme HiBreak** or **HiBreak Pro** e-ink phone.
 
 ---
 
+<img width="804" height="513" alt="ezgif-3f3acffd2cf425bc" src="https://github.com/user-attachments/assets/022b4ec4-5727-4f72-b6ec-70ff2a227197" />
+
+
 ## The problem
 
 On the HiBreak / HiBreak Pro, Android Auto's projected display shows dark outlines / halos
-around text and icons — it looks like an over-sharpened image. It's worst right after opening
-a new app in the car (maps, dialer, media).
+around text and icons — it looks like glitchy and oversharpened. 
+
+Originally reported here:
+https://www.reddit.com/r/Bigme/comments/1r35k2f/android_auto_graphical_glitch_only_happens_when/
+
+The behaviour is very consistent:
+
+If the phone is locked / in screensaver mode, Android Auto looks sharp and stable.
+As soon as you open or switch to a new app inside Android Auto (Spotify → Maps etc), the
+bug appears immediately: the UI becomes slightly distorted and icons/text gain a dark
+outline / halo.
+Once it happens, the distortion stays until you lock/unlock the phone again.
+After lock/unlock, Android Auto is sharp again and stays crisp for that app — until switching
+to another app triggers it again.
 
 ## The cause
 
@@ -34,6 +49,8 @@ Set the text-enhance value to **0** for the apps you use while driving. It's **p
 **permanent**, and **survives reboots**. No root required.
 
 ---
+
+<img width="768" height="652" alt="Screenshot_20260712_193842" src="https://github.com/user-attachments/assets/875c1b12-f0be-4512-9c91-d6f542bac024" />
 
 ## Download & use (Windows, easiest)
 
