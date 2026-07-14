@@ -50,7 +50,8 @@ Set the text-enhance value to **0** for the apps you use while driving. It's **p
 
 ---
 
-<img width="768" height="652" alt="Screenshot_20260712_193842" src="https://github.com/user-attachments/assets/875c1b12-f0be-4512-9c91-d6f542bac024" />
+<img width="760" height="630" alt="Screenshot 2026-07-14 104857" src="https://github.com/user-attachments/assets/7a7b01c4-b788-481d-91ac-98ade00f18e7" />
+
 
 ## Download & use (Windows, easiest)
 
